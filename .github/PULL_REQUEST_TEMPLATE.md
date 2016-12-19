@@ -1,2 +1,7 @@
-# New Pull Request
-PULL_REQUEST_TEMPLATE.md です。
+## プルリクエストを送るに至った経緯
+
+## マージすることで期待できる結果
+
+## マージ後のリスク
+
+## 関連URL
